@@ -125,7 +125,7 @@
         <artifactId>tomcat-maven-plugin</artifactId>  
         <version>1.1</version>  
         <configuration>  
-        	<url>http://172.20.46.93:8080/manager</url>     
+        	<url>http://172.20.46.93:8080/manager/html</url>     
                 <username>admin</username>     
                 <password>password</password>
                 <server>TomcatServer</server>    
