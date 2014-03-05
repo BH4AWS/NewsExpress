@@ -126,8 +126,8 @@
         <version>1.2-SNAPSHOT</version>  
         <configuration>  
         	<url>http://localhost:8080/manager</url>     
-                <username>tomcat</username>     
-                <password>123456</password>     
+                <username>admin</username>     
+                <password>password</password>     
                 <path>/NewsExpress</path>  
             </configuration>  
         </plugin>
