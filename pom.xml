@@ -127,7 +127,8 @@
         <configuration>  
         	<url>http://172.20.46.93:8080/manager</url>     
                 <username>admin</username>     
-                <password>password</password>     
+                <password>password</password>
+                <server>TomcatServer</server>    
                 <path>/NewsExpress</path>  
             </configuration>  
         </plugin>
